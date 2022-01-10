@@ -8,7 +8,9 @@ const FILES_TO_CACHE = [
     "/css/styles.css",
     "/js/index.js", 
     "/js/idb.js", 
-    
+    "/icons/icon-72x72.png",
+    "/icons/icon-192x192.png",
+    "manifest.json"
 ];
 
 //Cache Resources
